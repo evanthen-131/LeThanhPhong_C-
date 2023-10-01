@@ -1,0 +1,7 @@
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi02_2\bin\Debug\Buoi02_2.exe.config
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi02_2\bin\Debug\Buoi02_2.exe
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi02_2\bin\Debug\Buoi02_2.pdb
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi02_2\obj\Debug\Buoi02_2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi02_2\obj\Debug\Buoi02_2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi02_2\obj\Debug\Buoi02_2.exe
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi02_2\obj\Debug\Buoi02_2.pdb

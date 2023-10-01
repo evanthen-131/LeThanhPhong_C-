@@ -1,0 +1,15 @@
+D:\LeThanhPhong-2121110128\LeThanhPhong2121110128\Buoi01_5\bin\Debug\Buoi01_5.exe.config
+D:\LeThanhPhong-2121110128\LeThanhPhong2121110128\Buoi01_5\bin\Debug\Buoi01_5.exe
+D:\LeThanhPhong-2121110128\LeThanhPhong2121110128\Buoi01_5\bin\Debug\Buoi01_5.pdb
+D:\LeThanhPhong-2121110128\LeThanhPhong2121110128\Buoi01_5\obj\Debug\Buoi01_5.csproj.AssemblyReference.cache
+D:\LeThanhPhong-2121110128\LeThanhPhong2121110128\Buoi01_5\obj\Debug\Buoi01_5.csproj.SuggestedBindingRedirects.cache
+D:\LeThanhPhong-2121110128\LeThanhPhong2121110128\Buoi01_5\obj\Debug\Buoi01_5.csproj.CoreCompileInputs.cache
+D:\LeThanhPhong-2121110128\LeThanhPhong2121110128\Buoi01_5\obj\Debug\Buoi01_5.exe
+D:\LeThanhPhong-2121110128\LeThanhPhong2121110128\Buoi01_5\obj\Debug\Buoi01_5.pdb
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi01_5\bin\Debug\Buoi01_5.exe.config
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi01_5\bin\Debug\Buoi01_5.exe
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi01_5\bin\Debug\Buoi01_5.pdb
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi01_5\obj\Debug\Buoi01_5.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi01_5\obj\Debug\Buoi01_5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi01_5\obj\Debug\Buoi01_5.exe
+C:\Users\ASUS\Downloads\LeThanhPhong2121110128\Buoi01_5\obj\Debug\Buoi01_5.pdb

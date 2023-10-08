@@ -6,3 +6,10 @@ D:\LeThanhPhong-2121110128\LeThanhPhong2121110128\Buoi01_1\obj\Debug\Buoi01_1.cs
 D:\LeThanhPhong-2121110128\LeThanhPhong2121110128\Buoi01_1\obj\Debug\Buoi01_1.csproj.CoreCompileInputs.cache
 D:\LeThanhPhong-2121110128\LeThanhPhong2121110128\Buoi01_1\obj\Debug\Buoi01_1.exe
 D:\LeThanhPhong-2121110128\LeThanhPhong2121110128\Buoi01_1\obj\Debug\Buoi01_1.pdb
+C:\LeThanhPhong2121110128C#\Buoi01_1\bin\Debug\Buoi01_1.exe.config
+C:\LeThanhPhong2121110128C#\Buoi01_1\bin\Debug\Buoi01_1.exe
+C:\LeThanhPhong2121110128C#\Buoi01_1\bin\Debug\Buoi01_1.pdb
+C:\LeThanhPhong2121110128C#\Buoi01_1\obj\Debug\Buoi01_1.csproj.AssemblyReference.cache
+C:\LeThanhPhong2121110128C#\Buoi01_1\obj\Debug\Buoi01_1.csproj.CoreCompileInputs.cache
+C:\LeThanhPhong2121110128C#\Buoi01_1\obj\Debug\Buoi01_1.exe
+C:\LeThanhPhong2121110128C#\Buoi01_1\obj\Debug\Buoi01_1.pdb
